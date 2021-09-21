@@ -1,6 +1,26 @@
+# Rust + Tokio Workshop Setup
+
 ## Working with Codespaces
 
 This project is all set up to be used with [GitHub Codespaces](https://github.com/features/codespaces). Fork this repository and spin up a codespace on your own.
+
+### Running codespaces
+
+After booting up codespaces, you find yourself in a VSCode like setup. Enter the command line and run 
+
+```bash
+$ cargo run
+```
+
+If you see compile information and `Hello, world!` printed out on your command line, you are ready to go!
+
+If you see
+
+```bash
+Blocking waiting for file lock on build directory
+```
+
+... just wait for a bit. Codespaces is activating all plug-ins.
 
 ## Local setup
 
