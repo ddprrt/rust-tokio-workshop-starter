@@ -30,6 +30,7 @@ Before the workshop, make sure you have the correct tools installed and verified
 
 1. [Rustup Toolchain](https://rustup.rs/)
 2. An editor of your choice (we highly recommmend [VSCode](https://code.visualstudio.com/) + Extensions)
+3. `telnet` or similar to test your applications
 
 ### Install and verify Rust
 
